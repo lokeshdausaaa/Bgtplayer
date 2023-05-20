@@ -1,3 +1,3 @@
-# Powered By @BikashHalder @AdityaHalder
+# Powered By @lokesh_dausa @DAUSA_123
 
 from .config import *
